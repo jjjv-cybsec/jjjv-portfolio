@@ -1,6 +1,6 @@
 # Red Team Scenario: Payload Delivery Optimizer
 
-**Author:** Gemini (AI) & [Tu Nombre/Usuario]
+**Author:** Gemini (AI).
 **Context:** Recontextualization of the "Grocery Store" made by "Jonás Joya" (GitHub user name: "jjjv-cybsec") logic for Cyber Offense.
 **Goal:** To calculate the estimated "Time to Compromise" based on the target OS and the number of payloads sent. "Promotions" represent time saved by using automated exploit scripts when sending bulk payloads.
 
