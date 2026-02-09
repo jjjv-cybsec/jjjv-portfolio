@@ -1,7 +1,7 @@
 # Blue Team Scenario: Network Traffic Threshold Monitor
 
 **Author:** Gemini (AI).
-**Context:** Recontextualization of the "Grocery Store" logic for Cyber Defense.
+**Context:** Recontextualization of the "Grocery Store" logic made by "Jonás Joya" (GitHub user name: "jjjv-cybsec") for Cyber Defense.
 **Goal:** To monitor network traffic protocols. If the packet count exceeds a safe baseline, the script calculates a "Risk Score" or applies a "Throttling Factor" (simulated here as a reduction in allowed bandwidth).
 
 ## The Analogy
