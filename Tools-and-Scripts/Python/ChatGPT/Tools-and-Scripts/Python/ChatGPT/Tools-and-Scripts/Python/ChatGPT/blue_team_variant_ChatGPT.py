@@ -67,8 +67,8 @@ else:
 # Blue Team Value
 
 This model demonstrates:
-- Alert correlation logic
-- False-positive reduction
-- Severity-based prioritization
+- Alert correlation logic.
+- False-positive reduction.
+- Severity-based prioritization.
 
 All achieved using only beginner Python constructs.
