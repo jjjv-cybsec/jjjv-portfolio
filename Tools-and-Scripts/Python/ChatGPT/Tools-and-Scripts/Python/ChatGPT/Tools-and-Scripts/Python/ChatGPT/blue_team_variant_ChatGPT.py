@@ -60,3 +60,15 @@ elif BaseSeverity == float(PortScanAlert) and float(AlertCount) > 6:
 else:
     FinalSeverity = BaseSeverity * int(AlertCount)
     print(FinalSeverity)
+```
+
+---
+
+# Blue Team Value
+
+This model demonstrates:
+- Alert correlation logic
+- False-positive reduction
+- Severity-based prioritization
+
+All achieved using only beginner Python constructs.
