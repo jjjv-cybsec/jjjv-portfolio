@@ -2,7 +2,7 @@
 
 This folder will contain ChatGPT-generated transformations of Jonas’s original Python script.
 
-Files will be added manually after interacting with Gemini.
+Files will be added manually after interacting with ChatGPT.
 
 Structure:
 - Debugged version
