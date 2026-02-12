@@ -1,6 +1,3 @@
-
----
-
 ### **2. Blue Team Markdown**
 
 ```markdown
