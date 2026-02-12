@@ -45,4 +45,6 @@ elif ChosenFruit == YellowBananas and CountFruitFloat > 6:
     print("Promotion applied! Total: $" + str(TotalSalePromotion))
 else:
     TotalSale = ChosenFruit * CountFruitInt
-    print("Total: $" + str(TotalSale))# Placeholder file for Claude output
+    print("Total: $" + str(TotalSale))
+    
+# Placeholder file for Claude output
