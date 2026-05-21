@@ -1,3 +1,4 @@
+```markdown
 # Entry 002 Document Incident
 **Date:** 2025-04-01  
 **Activity:** Analyze your first packet
