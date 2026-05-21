@@ -2,7 +2,7 @@
 **Date:** 2025-04-01  
 **Activity:** Analyze your first packet
 
----
+--- 
 
 ## Description
 I am a security analyst investigating traffic to a website. I analyzed a packet capture (pcap) file that contains traffic data related to a user connecting to an internet site. This activity used **Wireshark** to open the sample pcap and apply filters to inspect network traffic.
