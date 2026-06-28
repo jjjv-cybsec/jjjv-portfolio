@@ -75,4 +75,4 @@ This report documents a controlled SQL Injection simulation executed in the **SO
 ## Appendix / Evidence references
 - Access log path: `C:\xampp\apache\logs\access.log` (contains both payloads).  
 - Wazuh alert example: rule id `31106` (UNION SELECT detection).  
-- **TODO:** attach or link screenshots of access.log and Wazuh alert (if you want them published).  
+- **TODO:** attach or link screenshots of access.log and Wazuh alert (if you want them published). 
