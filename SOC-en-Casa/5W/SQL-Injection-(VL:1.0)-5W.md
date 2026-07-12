@@ -36,7 +36,7 @@ This report documents a controlled SQL Injection simulation executed in the **SO
 - **Payload A timestamp:** `Jun 21, 2026 23:23:09` (recorded in access.log).  
 - **Payload B timestamp:** `Jun 21, 2026 23:23:19` (recorded in access.log).  
 - **Wazuh alert logged at:** `Jun 21, 2026 23:23:20.999` (Wazuh Dashboard).  
-- **TODO:** confirm timezone normalization for published timestamps (these are host-local times; convert to UTC if you want global consistency).
+- **TODO:** confirm timezone normalization for published timestamps (these are host-local times; convert to UTC is optional).
 
 ### Where did the incident happen?
 - The attack targeted the DVWA web application on the Windows VM.  
