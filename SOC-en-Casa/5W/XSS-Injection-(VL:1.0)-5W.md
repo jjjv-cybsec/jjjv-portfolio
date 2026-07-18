@@ -65,3 +65,5 @@ This report documents a controlled Cross‑Site Scripting (XSS) simulation execu
 ## Appendix
 - Access log path: `C:\xampp\apache\logs\access.log`.  
 - **TODO:** attach screenshots of access.log and Wazuh alert; confirm timestamps/timezone; optionally embed demo video thumbnail or link.
+ 
+<!-- Prepared for PR: moved from main to soc-en-casa/5w-xss-existing on 2026-07-18 -->
